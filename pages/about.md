@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/cnyagaka.png" alt="Collins N. Nyagaka" width="200">
+<img class="img-rounded" src="/assets/img/uploads/cnyagaka.png" alt="Collins N. Nyagaka" width="1000">
 
 # About
 
