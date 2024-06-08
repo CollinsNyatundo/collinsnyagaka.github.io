@@ -1,8 +1,8 @@
 ---
 date: 2024-05-08 02:12:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Welcome to the data race
+subtitle: 'An outlook on the current trends in data analytics, machine learning, and AI development.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
